@@ -8,7 +8,7 @@ beginning.
 ## Usage
 
 1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. run a find & replace of `YOUR_GITHUB_USER/YOUR_REPO` with your details
+2. run a find & replace of `armstrongl/awesome-krita` with your details
 3. edit `readme-template.md`
    - update the h1 title
    - update the subtitle
