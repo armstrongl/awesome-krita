@@ -13,7 +13,7 @@ An awesome list of Krita resources.
 <!-- image -->
 
 <a href="https://krita.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://krita.org/wp-content/themes/krita-org-theme/images/krita-logo.png?v2022" />
+  <img src="https://static.wikia.nocookie.net/logopedia/images/7/73/Calligrakrita-base.svg/revision/latest/scale-to-width-down/200?cb=20190531021319" />
 </a>
 
 <!-- description -->
