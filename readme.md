@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/armstrongl/awesome-krita/actions/workflows/lint.yaml/badge.svg)](https://github.com/armstrongl/awesome-krita/actions/workflows/lint.yaml)
+# Awesome Krita [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/armstrongl/awesome-krita/actions/workflows/lint.yaml/badge.svg)](https://github.com/armstrongl/awesome-krita/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -12,15 +12,13 @@ An awesome list of Krita resources.
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+<a href="https://krita.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://en.wikipedia.org/wiki/Krita#/media/File:Calligrakrita-base.svg" />
 </a>
 
 <!-- description -->
 
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
+[Krita](https://krita.org/) is an open source cross-platform raster graphics editor geared towards 2D animations.
 
 </div>
 
