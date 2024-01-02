@@ -32,9 +32,12 @@ An awesome list of Krita resources.
   - [Brushes](#brushes)
   - [Plugins](#plugins)
   - [Textures](#textures)
+  - [Templates](#templates)
   - [Tutorials](#tutorials)
+  - [Courses](#courses)
   - [YouTube channels](#youtube-channels)
   - [Forums](#forums)
+  - [Other](#other)
   - [Contributing](#contributing)
     - [Contributors](#contributors)
 
@@ -76,7 +79,15 @@ _Plugins for Krita._
 
 ## Textures
 
+## Templates
+
+- [Story Board Template for Krita](https://lewisfullerhill.gumroad.com/l/PtMtm)
+
 ## Tutorials
+
+## Courses
+
+- [Simón Sanchez’ “Learn to Create Pixel Art from Zero” course on Udemy](https://www.udemy.com/learn-to-create-pixel-art-from-zero/?couponCode=OTHER_75)
 
 ## YouTube channels
 
@@ -84,6 +95,11 @@ _Plugins for Krita._
 
 - [Krita Artists Forum](https://krita-artists.org/)
 - [r/krita](https://www.reddit.com/r/krita/)
+
+## Other
+
+- [Zoldyako's Themes for Krita](https://github.com/Zoldyako/Zoldyako-Krita-Themes)
+
 
 <!-- END CONTENT -->
 
