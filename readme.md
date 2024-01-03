@@ -84,7 +84,7 @@ _Krita brushes and brush bundles_
 - [Set of Watercolor Brushes](https://krita-artists.org/t/set-of-watercolor-brushes/3944) - A collection of watercolor brushes.
 - [Awez Flat Brushes](https://krita-artists.org/t/awez-flat-brushes/73620) - A bundle of six flap brushes.
 - [Awez Basic Brushes](https://krita-artists.org/t/awez-basic-brushes/63645) - A bundle of baisc brushes.
-- [Wavenwater Concept art traditional medium Beta](https://krita-artists.org/t/wavenwater-concept-art-traditional-medium-beta/60632) - 
+- [Wavenwater Concept art traditional medium Beta](https://krita-artists.org/t/wavenwater-concept-art-traditional-medium-beta/60632) - A bundle of brushes that mimic standard drawing tools like Copic alcohol markers.
 - [Venu Brush Pack](https://krita-artists.org/t/venu-brush-pack/72113) - A bundle of brushes mimicing ink pens.
 - [AuraNed E-pencils](https://krita-artists.org/t/auraned-e-pencils/69254) - A bundle of brushes mimicing ink pens.
 - [Brush Pack (280 Brush Patterns)](https://krita-artists.org/t/brush-pack-280-brush-patterns/65990) - A large bundle of brushes.
