@@ -99,32 +99,31 @@ _Plugins for Krita_
 - [UI Redesign plugin](https://github.com/veryprofessionaldodo/Krita-UI-Redesign) - A Krita plugin that changes the interface to feel less cluttered and more modern. Adds an option to have a collapsible Toolbox and Tool Options over the canvas.
 - [Krita Ai Diffusion](https://github.com/Acly/krita-ai-diffusion) - A Krita plugin that adds a streamlined interface for generating images with AI. Inpaint and outpaint with optional text prompt, no tweaking required.
 - [Auto Sd Paint Ext](https://github.com/Interpause/auto-sd-paint-ext) - A Krita plugin to add custom backend API for Krita Plugin & more
-- [Krita Batch Exporter](https://github.com/GDQuest/krita-batch-exporter) - A Free Krita plugin to batch export layers and groups with maximum flexibility. Scale, trim, export multiple copies of your layers.
+- [Krita Batch Exporter](https://github.com/GDQuest/krita-batch-exporter) - A Krita plugin to batch export layers and groups with maximum flexibility. Scale, trim, export multiple copies of your layers.
 - [Shortcut Composer](https://github.com/wojtryb/Shortcut-Composer) - A Krita plugin for creating complex keyboard shortcuts.
 - [Blenderlayer](https://github.com/Yuntokon/BlenderLayer) - A Krita plugin that allows you to stream 3D View from Blender into Krita, behaving like a normal layer: You can trace over it, change the blending mode and even apply layer styles!
 - [Imagine_board](https://github.com/EyeOdin/imagine_board) - A Krita plugin for browsing images and creating image boards.
-- [Defuser](https://github.com/internationalTD/defuser) - A Stable Diffusion Plugin for Photoshop and Krita
+- [Defuser](https://github.com/internationalTD/defuser) - A Krita plugin for working with Stable Diffusion.
 - [Tk Krita](https://github.com/diegogarciahuerta/tk-krita) - A Shotgun Toolkit Engine for Krita: https://krita.org
-- [Krita Plugins](https://github.com/thomaslynge/krita-plugins) - Plugins for Krita. For now the home of the AnimLayers plugin where you can animate specific layers in Krita.
-- [Pixel Borders](https://github.com/sGaps/pixel-borders) - A pixel borders plugin for Krita.
+- [Pixel Borders](https://github.com/sGaps/pixel-borders) - A Krita plugin for pixel borders.
 - [Krita Plugin Bashactions](https://github.com/juancarlospaco/krita-plugin-bashactions) - A Krita plugin to execute Bash commands and programs as Actions on your current Images from Krita.
 - [Vscode Krita Plugin Generator](https://github.com/cg-cnu/vscode-krita-plugin-generator) - A Krita plugin to create Krita script templates from VSCode.
 - [Oca Krita](https://github.com/RxLaboratory/OCA-Krita) - A Krita plugin to export animation keyframes from Krita to a JSON format + PNG.
 - [Krita Leonardo Ai](https://github.com/rainu/krita-leonardo-ai) - A Krita plugin for the Leonardo.Ai.
-- [Kritacustompreview](https://github.com/Rolodophone/KritaCustomPreview) - A docker for displaying a custom preview of your image.
+- [Kritacustompreview](https://github.com/Rolodophone/KritaCustomPreview) - A Krita docker for displaying a custom preview of your image.
 - [Krita Plugin Mdp](https://github.com/weeb-poly/krita-plugin-mdp) - A Krita plugin for importing MDIPACK.
 - [Krita Bulk Actions](https://github.com/Larpon/krita-bulk-actions) - A Krita bulk action plugin to perform assigned actions on marked layers.
 - [Rgb565preview](https://github.com/Kirbyrawr/RGB565Preview) - A Krita plugin that shows a preview in RGB565 of the document you are working on.
 - [Krita Sneaky Visibility](https://github.com/LainFenrir/krita-sneaky-visibility) - A Krita plugin that lets you change layer visibility without adding to the undo stack (works for multiple layers at once).
-- [KanvasBuddy - a Minimalist Toolbar](https://krita-artists.org/t/kanvasbuddy-a-minimalist-toolbar/549) - A Python plugin that floats on top of the canvas  packed with enough features to let you spend as much time in Canvas-Only mode as possible.
+- [KanvasBuddy - a Minimalist Toolbar](https://krita-artists.org/t/kanvasbuddy-a-minimalist-toolbar/549) - A Krita plugin that floats on top of the canvas  packed with enough features to let you spend as much time in Canvas-Only mode as possible.
 - [Compact Brush Toggler](https://github.com/kaichi1342/CompactBrushToggler) - A Krita plugin that allows you to quickly toggle individual brush properties.
 - [Tool tweeks](https://krita-artists.org/t/tool-tweeks/52353) -  A Krita plugin with a collection of tweeks for the tool options docker.
 - [BuliCommander](https://krita-artists.org/t/bulicommander/11612) - A Krita plugin that mimics the [Midnight Commander](https://midnight-commander.org/) file explorer.
 - [Label Box](https://krita-artists.org/t/label-box/44086) - A Krita plugin that adds a a box to set color labels to layers in the docker menu.
 - [Resource and Docker Menus Plugin](https://krita-artists.org/t/resource-and-docker-menus-plugin/39813) - A Krita plugin that adds two new menus in the menu bar one for Resources and another for Dockers.
-- [Reference Tabs Docker](https://invent.kde.org/freyalupen/reference-tabs-docker) - A krita plugin that adds a docker for containing reference images in separate tabs, with basic view manipulation (zoom, pan, rotate, mirror).
+- [Reference Tabs Docker](https://invent.kde.org/freyalupen/reference-tabs-docker) - A Krita plugin that adds a docker for containing reference images in separate tabs, with basic view manipulation (zoom, pan, rotate, mirror).
 - [Blender Layer](https://krita-artists.org/t/plugin-blender-layer-live-3d-view-in-krita/63394) - A Krita plugin that allows you to stream 3D View from Blender into Krita, behaving like a normal layer.
-- [Palette Generator](https://github.com/kaichi1342/PaletteGenerator) - PaletteGenerator is a Krita Docker that generates color scheme palette  randomly or based of the selected scheme.   
+- [Palette Generator](https://github.com/kaichi1342/PaletteGenerator) - A Krita docker that generates color scheme palette  randomly or based of the selected scheme.   
 - [Eraser Shift plugin](https://github.com/EyeOdin/Eraser_Shift) - A Krita plugin that adds shortcuts for brushes and erasers.
 - [Better Color Cycler](https://krita-artists.org/t/plugin-better-color-cycler-improved-shortcuts-and-support-for-dial-accessories/64347) -  A Krita plugin with improved shortcuts and support for dial accessories.
 - [ColorPlus](https://krita-artists.org/t/colorplus-a-plugin-to-simulate-watercolor-painting/48685) - A Krita plugin to simulate watercolor painting.
@@ -163,8 +162,7 @@ _Krita courses_
 
 _YouTube channels that make Krita-related content_
 
-- [David Revoy](https://www.youtube.com/channel/UCnAbNwJjusY7zQ__sQyJlSA) - Lots of tutorials and free resources.
-
+- [David Revoy](https://www.youtube.com/channel/UCnAbNwJjusY7zQ__sQyJlSA) - David Revoy's YouTube channel.
 ## Forums
 
 _Forums for Krita artists_
