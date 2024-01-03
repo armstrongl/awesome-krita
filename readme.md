@@ -26,19 +26,18 @@ An awesome list of Krita resources.
 
 ## Contents
 
-- [Awesome Krita  ](#awesome-krita--)
-  - [Contents](#contents)
-  - [General](#general)
-  - [Brushes](#brushes)
-  - [Plugins](#plugins)
-  - [Textures and patterns](#textures-and-patterns)
-  - [Tutorials](#tutorials)
-  - [Courses](#courses)
-  - [YouTube channels](#youtube-channels)
-  - [Forums](#forums)
-  - [Miscellaneous](#miscellaneous)
-  - [Contributing](#contributing)
-    - [Contributors](#contributors)
+- [Contents](#contents)
+- [General](#general)
+- [Brushes](#brushes)
+- [Plugins](#plugins)
+- [Textures and patterns](#textures-and-patterns)
+- [Tutorials](#tutorials)
+- [Courses](#courses)
+- [YouTube channels](#youtube-channels)
+- [Forums](#forums)
+- [Miscellaneous](#miscellaneous)
+- [Contributing](#contributing)
+  - [Contributors](#contributors)
 
 <!-- CONTENT -->
 
