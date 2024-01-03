@@ -43,12 +43,14 @@ An awesome list of Krita resources.
 
 ## General
 
+_General and official resources for Krita_
+
 - [Official Krita documentation](https://docs.krita.org/en/)
 - [Official Krita resources](https://docs.krita.org/en/resources_page.html)
 
 ## Brushes
 
-_Krita brushes and brush bundles._
+_Krita brushes and brush bundles_
 
 - [Realistic Ballpoint Pen Brush](https://krita-artists.org/t/cheap-ballpoint-pen-brush/17170) - A single brush preset that mimics using a ballpoint pen.
 - [Rotating light brushes](https://krita-artists.org/t/rotating-light-brushtips-wip/64930) - A WIP collection of animated RGBA brushtips that using a rotating light in Blender.
@@ -91,7 +93,7 @@ _Krita brushes and brush bundles._
 
 ## Plugins
 
-_Plugins for Krita._
+_Plugins for Krita_
 
 - [Pigment o plugin](https://github.com/EyeOdin/Pigment.O) - A Krita plugin that adds a full featured color picker that very customizable. Much better than the built in color dockers in krita.
 - [UI Redesign plugin](https://github.com/veryprofessionaldodo/Krita-UI-Redesign) - A Krita plugin that changes the interface to feel less cluttered and more modern. Adds an option to have a collapsible Toolbox and Tool Options over the canvas.
@@ -130,11 +132,15 @@ _Plugins for Krita._
 
 ## Textures and patterns
 
+_Textures and patterns for Krita_
+
 - [Paper & Canvas Textures](https://krita-artists.org/t/20-free-paper-canvas-textures/77155) - A collection of paper and canvas textures.
 - [Raghu’s Seamless Patterns](https://git.emblik.studio/raghukamath/Handmade-textures) - A collection of hand-made seamless textures.
 - [Metaballs](https://krita-artists.org/t/free-pattern-metaballs/72028) - A collection of metaball textures.
 
 ## Tutorials
+
+_Krita turtorials, how-to's, and guides_
 
 - [How I create stronger watercolor edges using GMIC](https://krita-artists.org/t/how-i-create-stronger-watercolor-edges-using-gmic/57427)
 - [Learn how to remove background in Krita](https://krita-artists.org/t/learn-how-to-remove-background-in-krita/30838)
@@ -149,13 +155,19 @@ _Plugins for Krita._
 
 ## Courses
 
+_Krita courses_
+
 - [Simón Sanchez’ “Learn to Create Pixel Art from Zero” course on Udemy](https://www.udemy.com/learn-to-create-pixel-art-from-zero/?couponCode=OTHER_75)
 
 ## YouTube channels
 
+_YouTube channels that make Krita-related content_
+
 - [David Revoy](https://www.youtube.com/channel/UCnAbNwJjusY7zQ__sQyJlSA) - Lots of tutorials and free resources.
 
 ## Forums
+
+_Forums for Krita artists_
 
 - [Krita Artists Forum](https://krita-artists.org/) - A forum for Krita artists to share tips, tricks, and resouces.
 - [r/krita](https://www.reddit.com/r/krita/) - The Krita subreddit.
