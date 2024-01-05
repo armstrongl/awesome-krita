@@ -104,7 +104,7 @@ _Plugins for Krita_
 - [Blenderlayer](https://github.com/Yuntokon/BlenderLayer) - A Krita plugin that allows you to stream 3D View from Blender into Krita, behaving like a normal layer: You can trace over it, change the blending mode and even apply layer styles!
 - [Imagine_board](https://github.com/EyeOdin/imagine_board) - A Krita plugin for browsing images and creating image boards.
 - [Defuser](https://github.com/internationalTD/defuser) - A Krita plugin for working with Stable Diffusion.
-- [Tk Krita](https://github.com/diegogarciahuerta/tk-krita) - A Shotgun Toolkit Engine for Krita: https://krita.org
+- [Tk Krita](https://github.com/diegogarciahuerta/tk-krita) - A Shotgun Toolkit Engine for Krita.
 - [Pixel Borders](https://github.com/sGaps/pixel-borders) - A Krita plugin for pixel borders.
 - [Krita Plugin Bashactions](https://github.com/juancarlospaco/krita-plugin-bashactions) - A Krita plugin to execute Bash commands and programs as Actions on your current Images from Krita.
 - [Vscode Krita Plugin Generator](https://github.com/cg-cnu/vscode-krita-plugin-generator) - A Krita plugin to create Krita script templates from VSCode.
