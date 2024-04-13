@@ -122,7 +122,6 @@ _Plugins for Krita_
 - [Label Box](https://krita-artists.org/t/label-box/44086) - A Krita plugin that adds a a box to set color labels to layers in the docker menu.
 - [Resource and Docker Menus Plugin](https://krita-artists.org/t/resource-and-docker-menus-plugin/39813) - A Krita plugin that adds two new menus in the menu bar one for Resources and another for Dockers.
 - [Reference Tabs Docker](https://invent.kde.org/freyalupen/reference-tabs-docker) - A Krita plugin that adds a docker for containing reference images in separate tabs, with basic view manipulation (zoom, pan, rotate, mirror).
-- [Blender Layer](https://krita-artists.org/t/plugin-blender-layer-live-3d-view-in-krita/63394) - A Krita plugin that allows you to stream 3D View from Blender into Krita, behaving like a normal layer.
 - [Palette Generator](https://github.com/kaichi1342/PaletteGenerator) - A Krita docker that generates color scheme palette  randomly or based of the selected scheme.   
 - [Eraser Shift plugin](https://github.com/EyeOdin/Eraser_Shift) - A Krita plugin that adds shortcuts for brushes and erasers.
 - [Better Color Cycler](https://krita-artists.org/t/plugin-better-color-cycler-improved-shortcuts-and-support-for-dial-accessories/64347) -  A Krita plugin with improved shortcuts and support for dial accessories.
